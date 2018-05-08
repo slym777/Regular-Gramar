@@ -1,0 +1,6 @@
+4 4
+S->aA|b|mB
+A->aB|dA
+B->.|bC
+C->c
+
