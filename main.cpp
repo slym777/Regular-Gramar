@@ -1,3 +1,4 @@
+/// Gramatica Regulata implementata cu clase
 #include <iostream>
 #include <bits/stdc++.h>
 
